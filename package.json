@@ -1,0 +1,22 @@
+{
+  "name": "playwright-typescript-ui-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumamp/playwright-typescript-ui-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumamp/playwright-typescript-ui-automation/issues"
+  },
+  "homepage": "https://github.com/sumamp/playwright-typescript-ui-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.3"
+  }
+}
